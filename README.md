@@ -2,7 +2,6 @@
 
 <h1 align="center">Hola 👋 soy Usías, desarrollador Full-Stack especializado en C#, HTML, CSS, Bootstrap</h1>
 
-___
 
 <br>
 
