@@ -98,7 +98,7 @@ const aboutMe = {
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,xamarin,c,cs,cpp,java,php,flutter,py,css,html,js,nodejs,mysql,sqlite,firebase,github,mssql,eclipse,vscode,bash,linux,ai,ps,arduino&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,flutter,py,css,html,js,nodejs,mysql,sqlite,firebase,github,sqlserver,eclipse,vscode,bash,linux,ai,ps,arduino&perline=12" />
   </a>
 </p>
 <br>
