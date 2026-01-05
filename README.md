@@ -89,26 +89,26 @@ const aboutMe = {
 
 <br>
 
-* <img align="center" alt="Linkedin" width="44px" src="https://github.com/Usias-IngeniUs/UsiasCv/blob/main/linkedin.svg" />&nbsp;&nbsp;
+* <img align="center" alt="Linkedin" width="44px" src="https://github.com/Usias-IngeniUs/Usias-IngeniUs/blob/main/linkedin.svg" />&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/usias-chuquillanqui-chihuan-27a328117/">Linkedin</a>
 
-* <img align="center" alt="Gmail" width="46px" src="https://github.com/Usias-IngeniUs/UsiasCv/blob/main/mail.svg" />&nbsp;&nbsp;
+* <img align="center" alt="Gmail" width="46px" src="https://github.com/Usias-IngeniUs/Usias-IngeniUs/blob/main/mail.svg" />&nbsp;&nbsp;
 <a href="usias.sistemas.sud@gmail.com">usias.sistemas.sud@gmail.com</a> 
 
-* <img align="center" alt="Curriculum Vitae" width="46px" src="https://github.com/Usias-IngeniUs/UsiasCv/blob/main/icon_cv.png" />&nbsp;&nbsp;
-<a download="CV-USIAS-Descriptivo.pdf" href="https://github.com/Usias-IngeniUs/UsiasCv/blob/main/CV-USIAS-Descriptivo.pdf">Descargar currículum</a>
+* <img align="center" alt="Curriculum Vitae" width="46px" src="https://github.com/Usias-IngeniUs/Usias-IngeniUs/blob/main/icon_cv.png" />&nbsp;&nbsp;
+<a download="CV-USIAS-Descriptivo.pdf" href="https://github.com/Usias-IngeniUs/Usias-IngeniUs/blob/main/CV-USIAS-Descriptivo.pdf">Descargar currículum</a>
 
 <br>
 
 ## Alguno de mis proyectos
 
-* [CalculatorPan](https://github.com/jitos-dev/Calculator-pan "App para el cálculo de las recetas de panadería")
+* [Sistema_Biométrico](https://github.com/jitos-dev/Calculator-pan "App para el cálculo de las recetas de panadería")
 
-* [Registro de usuarios Spring](https://github.com/jitos-dev/RegistroUsuariosSpring "Registro y login de usuarios con Spring-Security")
+* [Tienda_Virtual](https://github.com/jitos-dev/RegistroUsuariosSpring "Registro y login de usuarios con Spring-Security")
 
-* [Twittor](https://github.com/jitos-dev/twittor "App de mensajes implementando un service worker")
+* [Sistema_Web_Logistico](https://github.com/jitos-dev/twittor "App de mensajes implementando un service worker")
 
-* [¿Quieres ver el resto?](https://github.com/jitos-dev?tab=repositories "Repositorio de GitHub")
+* [Robótica](https://github.com/jitos-dev?tab=repositories "Repositorio de GitHub")
 
 <!--
 &nbsp;&nbsp;
