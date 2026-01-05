@@ -11,7 +11,6 @@
 <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""  /></a>
 <a href="https://www.tiktok.com/@sistemicus" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="" /></a>
 <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt=""  /></a>
-
   </p>
 <br>
 
