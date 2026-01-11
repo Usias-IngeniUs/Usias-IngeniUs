@@ -139,7 +139,7 @@ const aboutMe = {
 <td width="25%" align="center">
     <p align="center">
      <a href="#" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://github.com/Usias-IngeniUs/Usias-IngeniUs/blob/main/Selecccin_dedos.jpg"   alt="VIDEO" /></a>
       </p>
     <p align="center">
         <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
@@ -150,7 +150,7 @@ const aboutMe = {
   <td width="25%" align="center">
     <p align="center">
      <a href="#" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://github.com/Usias-IngeniUs/Usias-IngeniUs/blob/main/Enrolamiento.jpg"   alt="VIDEO" /></a>
       </p>
     <p align="center">
         <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
@@ -161,7 +161,7 @@ const aboutMe = {
    <td width="25%" align="center">
     <p align="center">
      <a href="#" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://github.com/Usias-IngeniUs/Usias-IngeniUs/blob/main/Verificación.jpg"   alt="VIDEO" /></a>
       </p>
     <p align="center">
         <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
