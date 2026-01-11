@@ -119,16 +119,6 @@ const aboutMe = {
 
 <br>
 
-## Alguno de mis proyectos
-
-* [Sistema_Biométrico](https://github.com/jitos-dev/Calculator-pan "App para el cálculo de las recetas de panadería")
-
-* [Tienda_Virtual](https://github.com/jitos-dev/RegistroUsuariosSpring "Registro y login de usuarios con Spring-Security")
-
-* [Sistema_Web_Logistico](https://github.com/jitos-dev/twittor "App de mensajes implementando un service worker")
-
-* [Robótica](https://github.com/jitos-dev?tab=repositories "Repositorio de GitHub")
-
 <!-------------------------->
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
@@ -187,6 +177,17 @@ const aboutMe = {
 <br>
 <br><br><br>
 <br><br>
+
+
+## Alguno de mis proyectos
+
+* [Sistema_Biométrico](https://github.com/jitos-dev/Calculator-pan "App para el cálculo de las recetas de panadería")
+
+* [Tienda_Virtual](https://github.com/jitos-dev/RegistroUsuariosSpring "Registro y login de usuarios con Spring-Security")
+
+* [Sistema_Web_Logistico](https://github.com/jitos-dev/twittor "App de mensajes implementando un service worker")
+
+* [Robótica](https://github.com/jitos-dev?tab=repositories "Repositorio de GitHub")
 
 
 <!--
